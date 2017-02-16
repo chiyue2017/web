@@ -746,11 +746,11 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #menu-w .link {
-  font-size: 1.2rem;
+  font-size: 0.95rem;
 }
 #menu-w .dropdown-item,
 #menu-w .nav-dropdown-sm .link {
-  font-size: 1.300rem;
+  font-size: 1.029rem;
 }
 #menu-w .link:hover,
 #menu-w .dropdown-item:hover,
@@ -1093,6 +1093,7 @@ h6,
 }
 #header1-1 .mbr-section-title {
   text-align: center;
+  color: #b8312f;
 }
 #header1-1 .btn {
   font-family: 'Oswald', sans-serif;

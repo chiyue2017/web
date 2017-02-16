@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "chiyue2017",
+    "currentPage": "LP.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -131,7 +131,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://chiyue2017.github.io/web/chiyue2017.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">齊躍科技有限公司</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news\">最新消息</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"category\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">產品目錄</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"category\">所有系列</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html\"><p>LD系列&nbsp;</p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LT.html\">LT系列</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LF系列</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"total.html\">產品櫥窗</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">關於</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about us\">關於我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT\">連絡我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"map.html\">交通資訊</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -163,8 +163,8 @@
           "_name": "features3",
           "_anchor": "features3-16",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "4",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/sea-beach-horizon-sand-tropics-2000x1500.jpg",
@@ -259,7 +259,7 @@
           "title5": "LP系列",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"LP.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
@@ -380,7 +380,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://chiyue2017.github.io/web/chiyue2017.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">齊躍科技有限公司</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news\">最新消息</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"category\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">產品目錄</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"category\">所有系列</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html\"><p>LD系列&nbsp;</p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LT.html\">LT系列</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LF系列</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"total.html\">產品櫥窗</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">關於</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about us\">關於我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT\">連絡我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"map.html\">交通資訊</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -576,7 +576,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://chiyue2017.github.io/web/chiyue2017.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">齊躍科技有限公司</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news\">最新消息</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"category\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">產品目錄</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"category\">所有系列</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html\"><p>LD系列&nbsp;</p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LT.html\">LT系列</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LF系列</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"total.html\">產品櫥窗</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">關於</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about us\">關於我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT\">連絡我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"map.html\">交通資訊</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -796,7 +796,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://chiyue2017.github.io/web/chiyue2017.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">齊躍科技有限公司</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news\">最新消息</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"category\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">產品目錄</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"category\">所有系列</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html\"><p>LD系列&nbsp;</p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LT.html\">LT系列</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LF系列</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"total.html\">產品櫥窗</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">關於</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about us\">關於我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT\">連絡我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"map.html\">交通資訊</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -860,10 +860,10 @@
               "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "1.2rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -934,7 +934,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://chiyue2017.github.io/web/chiyue2017.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">齊躍科技有限公司</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news\">最新消息</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"category\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">產品目錄</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"category\">所有系列</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html\"><p>LD系列&nbsp;</p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LT.html\">LT系列</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LF系列</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"total.html\">產品櫥窗</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">關於</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about us\">關於我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT\">連絡我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"map.html\">交通資訊</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -977,13 +977,13 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
             "googleMap": {
-              "address": "238新北市樹林區中山路一段10號",
-              "placeId": "ChIJDwJANT4daDQR_D350Sd19Zw",
+              "address": "新北市新莊區民安西路468之12號10樓",
+              "placeId": "Ei0yNDLlj7DngaPmlrDljJfluILmlrDojorljYDmsJHlronopb_ot680NjjomZ8",
               "state": "ok",
               "stateDetails": ""
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>地址</b></span></font><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">238台灣新北市樹林區中山路一段10號</span><br><br><br>\n<strong>連絡方式</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>地址</b></span></font><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">242</span>新北市新莊區民安西路468之12號10樓<br><br><br>\n<strong>連絡方式</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
           "text2": "<p class=\"mbr-contacts__text\"><strong>相關連結</strong></p><ul><li><a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
           "_styles": {
             "P": {
@@ -1096,7 +1096,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://chiyue2017.github.io/web/chiyue2017.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">齊躍科技有限公司</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news\">最新消息</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"category\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">產品目錄</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"category\">所有系列</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html\"><p>LD系列&nbsp;</p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LT.html\">LT系列</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LF系列</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"total.html\">產品櫥窗</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">關於</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about us\">關於我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT\">連絡我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"map.html\">交通資訊</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -1375,7 +1375,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://chiyue2017.github.io/web/chiyue2017.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">齊躍科技有限公司</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news\">最新消息</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"category\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">產品目錄</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"category\">所有系列</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html\"><p>LD系列&nbsp;</p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LT.html\">LT系列</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LF系列</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"total.html\">產品櫥窗</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">關於</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about us\">關於我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT\">連絡我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"map.html\">交通資訊</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -1564,7 +1564,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://chiyue2017.github.io/web/chiyue2017.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">齊躍科技有限公司</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news\">最新消息</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"category\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">產品目錄</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"category\">所有系列</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html\"><p>LD系列&nbsp;</p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LT.html\">LT系列</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LF系列</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"total.html\">產品櫥窗</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">關於</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about us\">關於我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT\">連絡我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"map.html\">交通資訊</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -1725,10 +1725,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/1471795405-138x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1736,7 +1738,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://chiyue2017.github.io/web/chiyue2017.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">齊躍科技有限公司</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news\">最新消息</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"category\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">產品目錄</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"category\">所有系列</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html\"><p>LD系列&nbsp;</p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LT.html\">LT系列</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LF系列</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"total.html\">產品櫥窗</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">關於</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about us\">關於我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT\">連絡我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"map.html\">交通資訊</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -1744,7 +1746,8 @@
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_styles": {
             ".mbr-section-title": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#b8312f"
             },
             ".btn": {
               "font-family": "'Oswald', sans-serif",
@@ -1771,9 +1774,9 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "標題列",
-          "text": "專業的LED驅動器的設計製造商<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"產品目錄\" data-toolbar=\"-mbrBtnMove\">產品目錄</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"關於我們\" data-toolbar=\"-mbrBtnMove\">關於我們</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"交通資訊\" data-toolbar=\"-mbrBtnMove\">交通資訊</a>"
+          "title": "齊躍科技有限公司",
+          "text": "<span style=\"font-style: normal;\"><b>專業的電源供應器製造商</b></span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"category\" data-toolbar=\"-mbrBtnMove\">產品目錄</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"total.html\" data-toolbar=\"-mbrBtnMove\">產品櫥窗</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"about us\" data-toolbar=\"-mbrBtnMove\">關於</a>"
         },
         {
           "_name": "footer1",
@@ -1898,7 +1901,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://chiyue2017.github.io/web/chiyue2017.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">齊躍科技有限公司</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news\">最新消息</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"category\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">產品目錄</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"category\">所有系列</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html\"><p>LD系列&nbsp;</p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LT.html\">LT系列</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LF系列</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"total.html\">產品櫥窗</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">關於</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about us\">關於我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT\">連絡我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"map.html\">交通資訊</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -2117,7 +2120,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://chiyue2017.github.io/web/chiyue2017.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">齊躍科技有限公司</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news\">最新消息</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"category\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">產品目錄</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"category\">所有系列</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html\"><p>LD系列&nbsp;</p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LT.html\">LT系列</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LF系列</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"total.html\">產品櫥窗</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">關於</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about us\">關於我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT\">連絡我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"map.html\">交通資訊</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -2276,7 +2279,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://chiyue2017.github.io/web/chiyue2017.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">齊躍科技有限公司</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news\">最新消息</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"category\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">產品目錄</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"category\">所有系列</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LD.html\"><p>LD系列&nbsp;</p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LT.html\">LT系列</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LF系列</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"total.html\">產品櫥窗</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">關於</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about us\">關於我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT\">連絡我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"map.html\">交通資訊</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -2316,46 +2319,50 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "caption": "Type caption here",
-                "active": true
+                "thumb": "@PROJECT_PATH@/assets/images/lp1013-2000x1446-800x578.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lp1013-2000x1446.jpg",
+                "caption": "LP1013",
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/lp1017-2000x1446-800x578.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lp1017-2000x1446.jpg",
+                "caption": "LP1017",
+                "active": false
               },
               {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/lp1020-2000x1446-800x578.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lp1020-2000x1446.jpg",
+                "caption": "LP1020",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/lp1025-2000x1446-800x578.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lp1025-2000x1446.jpg",
+                "caption": "LP1025",
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/room-laptop-800x533.jpg",
+                "image": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Beautiful",
@@ -2383,6 +2390,46 @@
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": "2",
