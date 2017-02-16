@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "LP.html",
+    "currentPage": "chiyue2017",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -118,7 +118,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/1471795405-138x128.png",
+              "src": "@PROJECT_PATH@/assets/images/20141218151932.gif",
               "height": 128,
               "alt": "快龍",
               "link": "page2.html#header1-4",
@@ -304,10 +304,10 @@
               "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "1.2rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -367,7 +367,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/1471795405-138x128.png",
+              "src": "@PROJECT_PATH@/assets/images/20141218151932.gif",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -502,10 +502,10 @@
               "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "1.2rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -565,10 +565,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/20141218151932.gif",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -722,10 +724,10 @@
               "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "1.2rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -785,10 +787,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/20141218151932.gif",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -923,10 +927,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/20141218151932.gif",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1083,7 +1089,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/1471795405-138x128.png",
+              "src": "@PROJECT_PATH@/assets/images/20141218151932.gif",
               "height": 128,
               "alt": "快龍",
               "link": "page2.html#header1-4",
@@ -1362,7 +1368,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/1471795405-138x128.png",
+              "src": "@PROJECT_PATH@/assets/images/20141218151932.gif",
               "height": 128,
               "alt": "快龍",
               "link": "page2.html#header1-4",
@@ -1551,7 +1557,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/1471795405-138x128.png",
+              "src": "@PROJECT_PATH@/assets/images/20141218151932.gif",
               "height": 128,
               "alt": "快龍",
               "link": "page2.html#header1-4",
@@ -1725,7 +1731,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/1471795405-138x128.png",
+              "src": "@PROJECT_PATH@/assets/images/20141218151932.gif",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1888,7 +1894,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/1471795405-138x128.png",
+              "src": "@PROJECT_PATH@/assets/images/20141218151932.gif",
               "height": 128,
               "alt": "快龍",
               "link": "page2.html#header1-4",
@@ -2107,7 +2113,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/1471795405-138x128.png",
+              "src": "@PROJECT_PATH@/assets/images/20141218151932.gif",
               "height": 128,
               "alt": "快龍",
               "link": "page2.html#header1-4",
@@ -2266,7 +2272,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/1471795405-138x128.png",
+              "src": "@PROJECT_PATH@/assets/images/20141218151932.gif",
               "height": 128,
               "alt": "快龍",
               "link": "page2.html#header1-4",
