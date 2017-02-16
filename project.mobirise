@@ -1,14 +1,14 @@
 {
   "settings": {
-    "currentPage": "測試網站",
+    "currentPage": "LT.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#2b0680",
+        "primaryColor": "#000000",
         "secondaryColor": "#b8312f",
-        "successColor": "#90a878",
+        "successColor": "#00a885",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
         "dangerColor": "#eb6b56",
@@ -17,12 +17,12 @@
         "textFont": "Raleway",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
+        "isScrollToTopButton": true,
         "isRtl": false
       }
     },
     "versionFirst": "3.12",
-    "uniqCompNum": 31,
+    "uniqCompNum": 57,
     "versionPublish": "3.12",
     "favicon": "",
     "noImageResize": ""
@@ -56,22 +56,22 @@
               "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "1.2rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.300rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b4322b"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#ce3c35!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#d14841"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -84,7 +84,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#2b0680!important"
+              "color": "#000000!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -100,8 +100,8 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#d14841",
-            "fontSize": "1",
+            "bgColor": "#ffffff",
+            "fontSize": "1.2",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -109,12 +109,12 @@
             },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
+            "transparent": false,
+            "sticky": false,
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -131,7 +131,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_225605/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF.html\">最新消息</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_225330/category.html\">產品目錄</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">關於</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230230/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91.html\">關於我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_225659/%E5%85%AC%E5%8F%B8%E6%96%87%E5%8C%96.html\">公司文化</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230312/%E8%81%AF%E7%B5%A1%E6%88%91%E5%80%91.html\">連絡我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230154/%E4%BA%A4%E9%80%9A%E8%B3%87%E8%A8%8A.html\">交通資訊</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_225605/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF.html\">最新消息</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-l9Mfi9/20170216_195054/LT.html\">產品櫥窗</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">關於</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230230/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91.html\">關於我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230312/%E8%81%AF%E7%B5%A1%E6%88%91%E5%80%91.html\">連絡我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230154/%E4%BA%A4%E9%80%9A%E8%B3%87%E8%A8%8A.html\">交通資訊</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -150,7 +150,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/sea-beach-horizon-sand-tropics-2000x1500.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -178,15 +178,15 @@
           },
           "_anchor": "footer1-2",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.8,
+            "overlayOpacity": "0",
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
@@ -200,7 +200,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -220,22 +220,22 @@
               "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "1.2rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.300rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b4322b"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#ce3c35!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#d14841"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -248,7 +248,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#2b0680!important"
+              "color": "#000000!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -264,8 +264,8 @@
           "_name": "menu",
           "_anchor": "menu-3",
           "_params": {
-            "bgColor": "#d14841",
-            "fontSize": "1",
+            "bgColor": "#ffffff",
+            "fontSize": "1.2",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -273,12 +273,12 @@
             },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
+            "transparent": false,
+            "sticky": false,
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -297,7 +297,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_225605/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF.html\">最新消息</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_225330/category.html\">產品目錄</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">關於</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230230/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91.html\">關於我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_225659/%E5%85%AC%E5%8F%B8%E6%96%87%E5%8C%96.html\">公司文化</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230312/%E8%81%AF%E7%B5%A1%E6%88%91%E5%80%91.html\">連絡我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230154/%E4%BA%A4%E9%80%9A%E8%B3%87%E8%A8%8A.html\">交通資訊</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_225605/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF.html\">最新消息</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-l9Mfi9/20170216_195054/LT.html\">產品櫥窗</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">關於</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230230/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91.html\">關於我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230312/%E8%81%AF%E7%B5%A1%E6%88%91%E5%80%91.html\">連絡我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230154/%E4%BA%A4%E9%80%9A%E8%B3%87%E8%A8%8A.html\">交通資訊</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -308,15 +308,15 @@
           },
           "_anchor": "footer1-5",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.8,
+            "overlayOpacity": "0",
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
@@ -326,22 +326,22 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-6",
+          "_anchor": "features3-16",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/sea-beach-horizon-sand-tropics-2000x1500.jpg",
             "bgColor": "#fff",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#ffffff",
             "columns": 4,
             "showImages": true,
             "showTitles": true,
@@ -351,7 +351,7 @@
           },
           "media1": {
             "image": {
-              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/la1012-600x434.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -361,13 +361,13 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Bootstrap 4",
+          "title1": "LA系列",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"LA系列.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1471796151-600x553.png",
+              "src": "@PROJECT_PATH@/assets/images/ld1007-600x434.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -377,13 +377,13 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Responsive",
+          "title2": "LD系列",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1471796392-600x553.png",
+              "src": "@PROJECT_PATH@/assets/images/lp1026-600x434.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -393,13 +393,13 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Web Fonts",
+          "title3": "LP系列",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/lt1016-600x434.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -409,7 +409,7 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "Unlimited Sites",
+          "title4": "LT系列",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -436,7 +436,12 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
         }
       ]
     },
@@ -464,22 +469,22 @@
               "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "1.2rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.300rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b4322b"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#ce3c35!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#d14841"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -492,7 +497,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#2b0680!important"
+              "color": "#000000!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -508,8 +513,8 @@
           "_name": "menu",
           "_anchor": "menu-d",
           "_params": {
-            "bgColor": "#d14841",
-            "fontSize": "1",
+            "bgColor": "#ffffff",
+            "fontSize": "1.2",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -517,20 +522,22 @@
             },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
+            "transparent": false,
+            "sticky": false,
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/1471795405-138x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -539,7 +546,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_225605/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF.html\">最新消息</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_225330/category.html\">產品目錄</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">關於</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230230/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91.html\">關於我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_225659/%E5%85%AC%E5%8F%B8%E6%96%87%E5%8C%96.html\">公司文化</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230312/%E8%81%AF%E7%B5%A1%E6%88%91%E5%80%91.html\">連絡我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230154/%E4%BA%A4%E9%80%9A%E8%B3%87%E8%A8%8A.html\">交通資訊</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_225605/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF.html\">最新消息</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-l9Mfi9/20170216_195054/LT.html\">產品櫥窗</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">關於</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230230/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91.html\">關於我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230312/%E8%81%AF%E7%B5%A1%E6%88%91%E5%80%91.html\">連絡我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230154/%E4%BA%A4%E9%80%9A%E8%B3%87%E8%A8%8A.html\">交通資訊</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -550,15 +557,15 @@
           },
           "_anchor": "footer1-e",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.8,
+            "overlayOpacity": "0",
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
@@ -570,37 +577,48 @@
           "_name": "form1",
           "_styles": {
             ".form-control-label": {
-              "color": "#232323"
+              "color": "#000000"
+            },
+            "SMALL": {
+              "color": "#fac51c"
+            },
+            "B": {
+              "color": "#ffffff",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-section-title": {
+              "color": "#fac51c"
             }
           },
           "_anchor": "form1-p",
           "_params": {
-            "labelsColor": "#232323",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
+            "labelsColor": "#000000",
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/sea-beach-horizon-sand-tropics-2000x1500.jpg",
             "bgColor": "#fff",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.2",
             "overlayColor": "#222",
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "CONTACT FORM",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "title": "聯絡我們",
+          "subtitle": "<font color=\"#000000\" style=\"font-style: normal;\"><b>如對產品有任何疑問或需大量採購詢價，歡迎來信</b></font>",
           "form": {
             "action": "shadow810819@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "感謝您的來信!"
             },
             "fields": {
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Name*"
+                "customTitle": "姓名"
               },
               "email": {
                 "title": "Email",
@@ -610,140 +628,15 @@
               "phone": {
                 "title": "Phone",
                 "visible": true,
-                "customTitle": "Phone"
+                "customTitle": "連絡電話"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "內容"
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
-        }
-      ]
-    },
-    "Company Culture": {
-      "settings": {
-        "title": "",
-        "meta_descr": "",
-        "order": 5
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            },
-            ".link, .dropdown-item": {
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-family": "'Oswald', sans-serif"
-            },
-            ".link": {
-              "font-size": "1rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b4322b"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#ce3c35!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#d14841"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#000000",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#2b0680!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "menu-7",
-          "_params": {
-            "bgColor": "#d14841",
-            "fontSize": "1",
-            "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
-            },
-            "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_225605/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF.html\">最新消息</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_225330/category.html\">產品目錄</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">關於</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230230/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91.html\">關於我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_225659/%E5%85%AC%E5%8F%B8%E6%96%87%E5%8C%96.html\">公司文化</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230312/%E8%81%AF%E7%B5%A1%E6%88%91%E5%80%91.html\">連絡我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230154/%E4%BA%A4%E9%80%9A%E8%B3%87%E8%A8%8A.html\">交通資訊</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          },
-          "_anchor": "footer1-8",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Mobirise."
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">送出<br></a>"
         }
       ]
     },
@@ -774,22 +667,22 @@
               "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "1.2rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.300rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b4322b"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#ce3c35!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#d14841"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -802,7 +695,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#2b0680!important"
+              "color": "#000000!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -818,8 +711,8 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#d14841",
-            "fontSize": "1",
+            "bgColor": "#ffffff",
+            "fontSize": "1.2",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -827,12 +720,12 @@
             },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
+            "transparent": false,
+            "sticky": false,
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -849,7 +742,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_225605/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF.html\">最新消息</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_225330/category.html\">產品目錄</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">關於</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230230/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91.html\">關於我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_225659/%E5%85%AC%E5%8F%B8%E6%96%87%E5%8C%96.html\">公司文化</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230312/%E8%81%AF%E7%B5%A1%E6%88%91%E5%80%91.html\">連絡我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230154/%E4%BA%A4%E9%80%9A%E8%B3%87%E8%A8%8A.html\">交通資訊</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_225605/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF.html\">最新消息</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-l9Mfi9/20170216_195054/LT.html\">產品櫥窗</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">關於</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230230/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91.html\">關於我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230312/%E8%81%AF%E7%B5%A1%E6%88%91%E5%80%91.html\">連絡我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230154/%E4%BA%A4%E9%80%9A%E8%B3%87%E8%A8%8A.html\">交通資訊</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -860,15 +753,15 @@
           },
           "_anchor": "footer1-2",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.8,
+            "overlayOpacity": "0",
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
@@ -877,26 +770,86 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "video2",
-          "_anchor": "video2-u",
+          "_name": "buttons1",
+          "_anchor": "buttons1-11",
           "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#fff",
-            "showText": true
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
           },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">DOWNLOAD FOR WIN</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_inherit": "testimonials2",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials4",
+          "testimonial": [
+            {
+              "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Abanoub S.",
+              "authorBio": "User"
             },
-            "video": {
-              "active": true,
-              "class": "mbr-embedded-video",
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            {
+              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Suffian A.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Jhollman C.",
+              "authorBio": "User"
             }
+          ],
+          "_anchor": "testimonials4-13",
+          "_params": {
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/sea-beach-horizon-sand-tropics-2000x1500.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": true,
+            "showBio": false
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
+          "title": "WHAT OUR FANTASTIC USERS SAY",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
         }
       ]
     },
@@ -904,6 +857,291 @@
       "settings": {
         "title": "",
         "meta_descr": "",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.2rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.300rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#000000!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-9",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "1.2",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_225605/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF.html\">最新消息</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-l9Mfi9/20170216_195054/LT.html\">產品櫥窗</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">關於</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230230/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91.html\">關於我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230312/%E8%81%AF%E7%B5%A1%E6%88%91%E5%80%91.html\">連絡我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230154/%E4%BA%A4%E9%80%9A%E8%B3%87%E8%A8%8A.html\">交通資訊</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          },
+          "_anchor": "footer1-a",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0",
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        }
+      ]
+    },
+    "map.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "order": 6
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.2rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.300rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#000000!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-w",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "1.2",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_225605/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF.html\">最新消息</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-l9Mfi9/20170216_195054/LT.html\">產品櫥窗</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">關於</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230230/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91.html\">關於我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230312/%E8%81%AF%E7%B5%A1%E6%88%91%E5%80%91.html\">連絡我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230154/%E4%BA%A4%E9%80%9A%E8%B3%87%E8%A8%8A.html\">交通資訊</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          },
+          "_anchor": "footer1-x",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0",
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-z",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "238新北市樹林區中山路一段10號",
+              "placeId": "ChIJDwJANT4daDQR_D350Sd19Zw",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">238台灣新北市樹林區中山路一段10號</span><br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    "LT.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
         "order": 3
       },
       "components": [
@@ -924,22 +1162,22 @@
               "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "1.2rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.300rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b4322b"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#ce3c35!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#d14841"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -952,7 +1190,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#2b0680!important"
+              "color": "#000000!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -966,10 +1204,10 @@
             }
           },
           "_name": "menu",
-          "_anchor": "menu-9",
+          "_anchor": "menu-1b",
           "_params": {
-            "bgColor": "#d14841",
-            "fontSize": "1",
+            "bgColor": "#ffffff",
+            "fontSize": "1.2",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -977,20 +1215,22 @@
             },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
+            "transparent": false,
+            "sticky": false,
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/1471795405-138x128.png",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "alt": "快龍",
+              "link": "page2.html#header1-4",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -999,7 +1239,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_225605/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF.html\">最新消息</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_225330/category.html\">產品目錄</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">關於</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230230/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91.html\">關於我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_225659/%E5%85%AC%E5%8F%B8%E6%96%87%E5%8C%96.html\">公司文化</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230312/%E8%81%AF%E7%B5%A1%E6%88%91%E5%80%91.html\">連絡我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230154/%E4%BA%A4%E9%80%9A%E8%B3%87%E8%A8%8A.html\">交通資訊</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_225605/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF.html\">最新消息</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-l9Mfi9/20170216_195054/LT.html\">產品櫥窗</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">關於</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230230/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91.html\">關於我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230312/%E8%81%AF%E7%B5%A1%E6%88%91%E5%80%91.html\">連絡我們</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/x/AppData/Local/Temp/Mobirise-P1XkOA/20170214_230154/%E4%BA%A4%E9%80%9A%E8%B3%87%E8%A8%8A.html\">交通資訊</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1008,132 +1248,153 @@
               "text-align": "right"
             }
           },
-          "_anchor": "footer1-a",
+          "_anchor": "footer1-1c",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.8,
+            "overlayOpacity": "0",
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
-        }
-      ]
-    },
-    "maps": {
-      "settings": {
-        "title": "",
-        "meta_descr": "",
-        "order": 7
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#2b0680!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-i",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FEATURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
+          "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "map2",
-          "_anchor": "map2-t",
+          "_name": "gallery2",
           "_params": {
-            "paddingTop": "7",
-            "paddingBottom": "7",
-            "bgColor": "#ffffff",
-            "googleMap": {
-              "address": "新北市樹林區中山路一段",
-              "placeId": "ChIJCUlnFBYdaDQR1B-OLnWfRjI",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          }
+            "paddingTop": 4,
+            "paddingBottom": "4",
+            "images": [
+              {
+                "tags": "LT",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lt1016-2000x1446-800x578.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lt1016-2000x1446.jpg",
+                "caption": "LT1016-1XX",
+                "active": false
+              },
+              {
+                "tags": "LT",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lt1016-2000x1446-800x578.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lt1016-2000x1446.jpg",
+                "caption": "LT1016-2XX",
+                "active": false
+              },
+              {
+                "tags": "LT",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lt1026-1xx-2000x1446-800x578.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lt1026-1xx-2000x1446.jpg",
+                "caption": "LT1026-1XX",
+                "active": false
+              },
+              {
+                "tags": "LT",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lt1026-1xx-2000x1446-800x578.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lt1026-1xx-2000x1446.jpg",
+                "caption": "LT1026-2XX",
+                "active": false
+              },
+              {
+                "tags": "B",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/b06-2000x1446-800x578.jpg",
+                "image": "@PROJECT_PATH@/assets/images/b06-2000x1446.jpg",
+                "caption": "B06",
+                "active": false
+              },
+              {
+                "tags": "LT",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/b12-2000x1446-800x578.jpg",
+                "image": "@PROJECT_PATH@/assets/images/b12-2000x1446.jpg",
+                "caption": "B12",
+                "active": false
+              },
+              {
+                "tags": "LT",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lf1048-2000x1446-800x578.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lf1048-2000x1446.jpg",
+                "caption": "LF1048",
+                "active": false
+              },
+              {
+                "tags": "LF",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lf1075-2000x1446-800x578.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lf1075-2000x1446.jpg",
+                "caption": "LF1075",
+                "active": false
+              },
+              {
+                "tags": "LF",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lf1153-2000x1446-800x578.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lf1153-2000x1446.jpg",
+                "caption": "LF1153",
+                "active": false
+              },
+              {
+                "tags": "LF",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lf1240-2000x1446-800x578.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lf1240-2000x1446.jpg",
+                "caption": "LF1240",
+                "active": false
+              },
+              {
+                "tags": "LF",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lf2200-2000x1446-800x578.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lf2200-2000x1446.jpg",
+                "caption": "LF2200",
+                "active": true
+              }
+            ],
+            "spacing": "1",
+            "showText": true,
+            "filter": true,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-1k",
+          "articleLayout": false,
+          "allItem": "All"
         }
       ]
     }
